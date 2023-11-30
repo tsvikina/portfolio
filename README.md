@@ -1,10 +1,10 @@
-#Junior Data Analyst
+# Junior Data Analyst
 
-###Education
+### Education
 
-###Work Experience
+### Work Experience
 
-###Projects
+### Projects
 
 project 1:
 
@@ -12,4 +12,4 @@ project 2:
 
 project 3:
 
-###Skils
+### Skils
