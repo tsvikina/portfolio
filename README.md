@@ -1,16 +1,15 @@
-### Hi there 👋
+#Junior Data Analyst
 
-<!--
-**tsvikina/tsvikina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Education
 
-Here are some ideas to get you started:
+###Work Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Projects
+
+project 1:
+
+project 2:
+
+project 3:
+
+###Skils
