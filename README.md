@@ -1,10 +1,17 @@
 # Junior Data Analyst
 
-### Education
+## Education
 
-### Work Experience
+## Work Experience
+###Digital Archivist 
+at Het Poortgebouw
+Nov 2022 - now
+Rotterdam, Netherlands
+<i> Helping the Poortgebouw association digitalise their archive, next to protecting and maintaining the archive. 
+Meanwhile, learning Python (Pandas, NumPy, matplotlib and BeautifulSoup),
+SQL, Tableau, and Advanced Excel
 
-### Projects
+## Projects
 
 project 1:
 
