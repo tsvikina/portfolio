@@ -7,8 +7,9 @@
 Het Poortgebouw </br>
 Nov 2022 - now </br>
 Rotterdam, Netherlands <br/>
-<i> Helping the Poortgebouw association digitalise their archive, next to protecting and maintaining the archive. 
-Meanwhile, learning Python (Pandas, NumPy, matplotlib and BeautifulSoup),
+<i> Helping the Poortgebouw association digitalise their archive </br> 
+Next to that, protecting and maintaining the archive. 
+Meanwhile, learning Python (Pandas, NumPy, matplotlib and BeautifulSoup), </br>
 SQL, Tableau, and Advanced Excel
 
 ## Projects
