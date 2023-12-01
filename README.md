@@ -4,9 +4,9 @@
 
 ## Work Experience
 ### Digital Archivist 
-at Het Poortgebouw
-Nov 2022 - now
-Rotterdam, Netherlands
+Het Poortgebouw__
+Nov 2022 - now__
+Rotterdam, Netherlands__
 <i> Helping the Poortgebouw association digitalise their archive, next to protecting and maintaining the archive. 
 Meanwhile, learning Python (Pandas, NumPy, matplotlib and BeautifulSoup),
 SQL, Tableau, and Advanced Excel
