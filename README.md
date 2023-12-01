@@ -3,7 +3,7 @@
 ## Education
 
 ## Work Experience
-###Digital Archivist 
+### Digital Archivist 
 at Het Poortgebouw
 Nov 2022 - now
 Rotterdam, Netherlands
