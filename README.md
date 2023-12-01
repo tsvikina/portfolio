@@ -21,12 +21,12 @@
 
 Used **Excel Solver** to develop a high in nutritions but low in cost feeding plan for my little Bouvier.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Happy well-fed doggy](/assets/img/happy_dog_file.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Have no idea what my other project is about but will use Python
+[Publication](https://www.m)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Python** to do something very smart and important
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![cool project](/assets/img/pythonstuff.jpeg)
 
