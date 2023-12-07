@@ -2,7 +2,9 @@
 <i>A music industry professional transitioning to data analytics </i>
 
 #### Technical Skills: Python, SQL, Excel
+
 ## Education						       		
+- Business Intelligence and Data Analysis course | Bit Academy (_Present_)
 - Big Data Analysis course	| Markus Verbeek Praehep (_April 2023_)	 			        		
 - B.S., International Music Management | Inholland University of Applied Sciences (_June 2022_)
 
