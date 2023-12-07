@@ -30,7 +30,7 @@
 
 Used **Excel Solver** to develop a high in nutritions but low in cost feeding plan for my little Bouvier.
 
-![Happy well-fed doggy](/happy_dog.jpeg)
+![Happy well-fed doggy](portfolio/happy_dog.jpg)
 
 ### Have no idea what my other project is about but will use Python
 [Publication](https://www.m)
