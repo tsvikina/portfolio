@@ -13,9 +13,6 @@
 - **Soft Skills**: Analytical thinking, Problem-solving, Attention to detail, Creative thinking
 
 ## Education						       		
-**Data Engineering course**  
-Bit Academy (_June 2024 - present_)  
-Relevant coursework: Python, Microsoft Azure, HTML, Data Governance and Compliance, Cloud Storage, Cloud Visualizations, Cloud Data Security
 
 **Business Intelligence and Data Analysis**  
 Bit Academy (_March 2024_)  
@@ -28,6 +25,12 @@ Relevant coursework: Big Data Technologies, Hadoop, Spark, Data Integration, Dat
 **B.S., International Music Management**  
 Inholland University of Applied Sciences (_June 2022_)  
 Relevant coursework: Market Research, Data Analysis in the Music Industry, Statistics for Business
+
+## Currently Enrolled
+
+**Data Engineering course**  
+Bit Academy (_September 2024_)  
+Relevant coursework: Python, Microsoft Azure, HTML, Data Governance and Compliance, Cloud Storage, Cloud Visualizations, Cloud Data Security
 
 
 ## Work Experience
