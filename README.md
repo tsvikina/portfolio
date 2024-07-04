@@ -1,12 +1,34 @@
 # Teodora Tsvikina
-<i>A music industry professional transitioning to data analytics </i>
+<i>Transitioning from a career in the music industry to data analytics, I bring a unique blend of analytical thinking, problem-solving, and creative skills. Proficient in Python, SQL, and data visualization tools, I am dedicated to leveraging my expertise to drive insights and support decision-making in organizations that prioritize sustainability, creativity, and social justice.</i>
 
-#### Technical Skills: Python, SQL, Excel
+---
+
+## Skills
+
+- **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Databases**: SQL (MySQL, T-SQL)
+- **Data Visualization**: Power BI, Tableau, Matplotlib
+- **Tools & Technologies**: Azure, Git, Jupyter Notebooks
+- **Data Analytics**: Data cleaning, Data manipulation, Statistical analysis
+- **Soft Skills**: Analytical thinking, Problem-solving, Attention to detail, Creative thinking
 
 ## Education						       		
-- Business Intelligence and Data Analysis course | Bit Academy (_June 2024_)
-- Big Data Analysis course	| Markus Verbeek Praehep (_April 2023_)	 			        		
-- B.S., International Music Management | Inholland University of Applied Sciences (_June 2022_)
+**Data Engineering course**  
+Bit Academy (_June 2024 - present_)  
+Relevant coursework: Python, Microsoft Azure, HTML, Data Governance and Compliance, Cloud Storage, Cloud Visualizations, Cloud Data Security
+
+**Business Intelligence and Data Analysis**  
+Bit Academy (_March 2024_)  
+Relevant coursework: Data Warehousing, Data Mining, SQL for Data Analysis, Data Visualization, Advanced Excel
+
+**Big Data Analysis**  
+Markus Verbeek Praehep (_April 2023_)  
+Relevant coursework: Big Data Technologies, Hadoop, Spark, Data Integration, Data Quality
+
+**B.S., International Music Management**  
+Inholland University of Applied Sciences (_June 2022_)  
+Relevant coursework: Market Research, Data Analysis in the Music Industry, Statistics for Business
+
 
 ## Work Experience
 **Data Management Specialist @ Het Poortgebouw Association (_June 2022 - Present_)**
