@@ -4,14 +4,16 @@
 #### Technical Skills: Python, SQL, Excel
 
 ## Education						       		
-- Business Intelligence and Data Analysis course | Bit Academy (_Present_)
+- Business Intelligence and Data Analysis course | Bit Academy (_June 2024_)
 - Big Data Analysis course	| Markus Verbeek Praehep (_April 2023_)	 			        		
 - B.S., International Music Management | Inholland University of Applied Sciences (_June 2022_)
 
 ## Work Experience
-**Digital Archivist @ Het Poortgebouw Association (_June 2022 - Present_)**
-- Helping the Poortgebouw association digitalise their archive.
-- Meanwhile, changing my career path following courses on Python (Pandas, NumPy, matplotlib and BeautifulSoup), SQL, Tableau, and Advanced Excel.
+**Data Management Specialist @ Het Poortgebouw Association (_June 2022 - Present_)**
+- Digitalized the association’s archive, enhancing data accessibility and organization.
+- Utilized Python for data cleaning and preprocessing.
+- Developed and maintained a searchable database using SQL.
+- Created data visualizations and reports using Power BI to support decision-making.
 
 **Music Manager & Event Organizer @ Teodora Tsvikina (_October 2019 - Present_)**
 - During 2020 and 2021 worked on a research about the significance of underground DIY music spaces on the social capital creation in cities.
