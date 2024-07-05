@@ -56,6 +56,7 @@ Relevant coursework: Python, Microsoft Azure, HTML, Data Governance and Complian
 ### Impact of DIY Music Spaces on Local Communities
 
 **Project Overview** : This project investigates the role of DIY music spaces in fostering community engagement, cultural exchange, and local economic development. The analysis uses randomly generated survey data to demonstrate the methodology and techniques employed.
+
 [Project files](DIY-spaces-and-local-communities)
 
 
