@@ -16,7 +16,7 @@
 
 **Business Intelligence and Data Analysis**  
 Bit Academy (_March 2024_)  
-Relevant coursework: Data Warehousing, Data Mining, SQL for Data Analysis, Data Visualization, Advanced Excel
+Relevant coursework: Data Warehousing, Data Mining, SQL for Data Analysis, Data Visualization
 
 **Big Data Analysis**  
 Markus Verbeek Praehep (_April 2023_)  
@@ -24,7 +24,7 @@ Relevant coursework: Big Data Technologies, Hadoop, Spark, Data Integration, Dat
 
 **B.S., International Music Management**  
 Inholland University of Applied Sciences (_June 2022_)  
-Relevant coursework: Market Research, Data Analysis in the Music Industry, Statistics for Business
+Relevant coursework: Market Research, Data Analysis in the Music Industry, Statistics for Business, Advanced Excel
 
 ## Currently Enrolled
 
@@ -52,10 +52,12 @@ Relevant coursework: Python, Microsoft Azure, HTML, Data Governance and Complian
 - The main point of contact between the local MTV Italy, MTV Germany, MTV Japan, and Vh1 Japan offices, localization companies and production companies from England and USA.
 
 ## Projects
-### Low-cost Nutrition PLan  
+
+### Impact of DIY Music Spaces on Local Communities
+
+**Project Overview** : This project investigates the role of DIY music spaces in fostering community engagement, cultural exchange, and local economic development. The analysis uses randomly generated survey data to demonstrate the methodology and techniques employed.
 [Publication](https://www./22/8/8)
 
-Used **Excel Solver** to develop a high in nutritions but low in cost feeding plan for my little Bouvier.
 
 ![Happy well-fed doggy](portfolio/happy_dog.jpg)
 
