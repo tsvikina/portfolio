@@ -59,7 +59,7 @@ Relevant coursework: Python, Microsoft Azure, HTML, Data Governance and Complian
 [Publication](https://www./22/8/8)
 
 
-![Happy well-fed doggy](portfolio/happy_dog.jpg)
+![A man jumping in the crowd during a punk concert](images/concert-photo.png)
 
 ### Have no idea what my other project is about but will use Python
 [Publication](https://www.m)
