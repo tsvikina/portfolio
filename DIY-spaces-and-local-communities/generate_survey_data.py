@@ -5,10 +5,10 @@ import numpy as np
 num_responses = 100
 
 # Defining the possible answers for each question
-visit_frequency = ['Weekly', 'Monthly', 'Occasionaly', 'Rarely']
+visit_frequency = ['Weekly', 'Monthly', 'Occasionally', 'Rarely']
 event_type = ['Concerts', 'Workshops', 'Community meetings', 'Swapshop', 'Community kitchen', 'Other']
 community_connection =['Yes', 'No']
-benefits = ['Improved social connections', 'Enhanced cultural awarness', 'Other']
+benefits = ['Improved social connections', 'Enhanced cultural awareness', 'Other']
 impact_rating = ['Very positive', 'Positive', 'Neutral', 'Negative', 'Very negative']
 
 # Generate responses
