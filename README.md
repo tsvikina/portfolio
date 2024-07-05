@@ -59,7 +59,7 @@ Relevant coursework: Python, Microsoft Azure, HTML, Data Governance and Complian
 [Project files](DIY-spaces-and-local-communities)
 
 
-![A man jumping in the crowd during a punk concert](images/concert-photo.png)
+<img src="images/concert-photo.png" alt="A man jumping in the crowd during a punk concert" style="width: 50%;">
 
 ### Have no idea what my other project is about but will use Python
 [Publication](https://www.m)
