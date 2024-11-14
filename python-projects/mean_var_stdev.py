@@ -10,15 +10,15 @@ def calculate(list):
     overall_sum_of_numbers = np.sum(list)
     
     row_mean =np.mean(list, axis = 1).tolist()
-    row_var = [variance(row) for row in list]
-    row_st_dev = [stdev(row) for row in list]
+    row_var = np.var(list, axis = 1).tolist()
+    row_st_dev = np.std(list, axis = 1).tolist()
     row_max = np.max(list, axis = 1).tolist()
     row_min = np.min(list, axis = 1).tolist()
     row_sum = np.sum(list, axis = 1).tolist()
 
     col_mean = np.mean(list, axis = 0).tolist()
-    col_var = [variance(list[:, i]) for i in range(list.shape[1])]
-    col_st_dev = [stdev(list[:, i]) for i in range(list.shape[1])]
+    col_var = np.var(list, axis = 0).tolist()
+    col_st_dev = np.std(list, axis = 0).tolist()
     col_max = np.max(list, axis = 0).tolist()
     col_min = np.min(list, axis = 0).tolist()
     col_sum = np.sum(list, axis = 0).tolist()
@@ -27,5 +27,6 @@ def calculate(list):
     
     return calculations
 
-numbers = np.array([0,1,2,3,4,5,6,7,8]).reshape(3,3)
-print(calculate(numbers))
+list_of_numbers = np.arange(9).reshape(3,3)
+
+print(calculate(list_of_numbers))
