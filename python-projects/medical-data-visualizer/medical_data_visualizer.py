@@ -16,21 +16,18 @@ df['gluc'] = np.where(df['gluc'] > 1, 1, 0)
 
 # 4
 def draw_cat_plot():
-    df_cat = pd.melt(df, id_vars=['id', 'cardio'], value_vars=['gluc', 'smoke', 'alco', 'active', 'cardio', 'overweight'], var_name='feature', value_name='value').sort_values(by=['id', 'feature']).reset_index(drop=True)
+    df_cat = pd.melt(df, id_vars=['id', 'cardio'], value_vars=['gluc', 'smoke', 'alco', 'active', 'cardio', 'overweight'], var_name='feature', value_name='total').sort_values(by=['id', 'feature']).reset_index(drop=True)
 
     # Create the catplot
     fig = sns.catplot(
         data=df_cat, 
         x='feature', 
-        hue='value', 
+        y ='total', 
         col='cardio', 
-        kind='count'
+        kind='bar'
     )
     fig.savefig('catplot.png')
-
-    # Correct way to access axes of FacetGrid object
-    ax = fig.axes[0]  # This should work now since fig.axes will give access to subplots if there are any
-    return fig, ax
+    return fig
 
 draw_cat_plot()
 
@@ -51,13 +48,13 @@ def draw_heat_map():
     mask = np.triu(np.ones_like(corr, dtype=bool))
 
     # 14
-    fig, ax = plt.subplots(figsize=(10, 8))  # You already have ax here, no need for fig.axes[0]
+    fig, ax = plt.subplots(figsize=(10, 8))  
 
     sns.heatmap(
         corr, 
         mask=mask,
         annot=True,          
-        fmt=".2f",  # Ensure two decimal places
+        fmt=".1f",  
         cmap='coolwarm',      
         center=0,
         square=True,         
@@ -66,6 +63,6 @@ def draw_heat_map():
     )
 
     fig.savefig('heatmap.png')
-    return fig, ax
+    return fig
 
 draw_heat_map()
