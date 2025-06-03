@@ -1,5 +1,5 @@
 # Teodora Tsvikina
-<i>Transitioning from a career in the music industry to data analytics, I bring a unique blend of analytical thinking, problem-solving, and creative skills. Proficient in Python, SQL, and data visualization tools, I am dedicated to leveraging my expertise to drive insights and support decision-making in organizations that prioritize sustainability, creativity, and social justice.</i>
+<i> Results-oriented professional with experience in organizing and coordinating diverse projects. I combine an analytical mindset with a creative background and excel in structuring processes, leading teams, and managing deadlines. I am currently pursuing a data engineering course to further enhance my technical expertise. I have experience setting up and guiding multidisciplinary projects, ensuring efficient planning, clear communication, and smooth collaboration among various stakeholders. I thrive in environments that prioritize creativity, sustainability, and social impact. Outside of work, I am active in music and the arts and have a broad interest in writing, performance, and culture. I enjoy long walks, adventures with my son, and continuously learning about a wide range of topics-from mathematics to spirituality</i>
 
 ---
 
@@ -10,6 +10,7 @@
 - **Data Visualization**: Power BI, Tableau, Matplotlib
 - **Tools & Technologies**: Azure, Git, Jupyter Notebooks
 - **Data Analytics**: Data cleaning, Data manipulation, Statistical analysis
+- **Project Management**: Agile/Scrum
 - **Soft Skills**: Analytical thinking, Problem-solving, Attention to detail, Creative thinking
 
 ## Education						       		
@@ -62,10 +63,8 @@ Relevant coursework: Python, Microsoft Azure, HTML, Data Governance and Complian
 
 <img src="images/concert-photo.png" alt="A man jumping in the crowd during a punk concert" style="width: 70%;">
 
-### Have no idea what my other project is about but will use Python
 [Publication](https://www.m)
 
-Used **Python** to do something very smart and important
 
 ![cool project](/assets/img/pythonstuff.jpeg)
 
